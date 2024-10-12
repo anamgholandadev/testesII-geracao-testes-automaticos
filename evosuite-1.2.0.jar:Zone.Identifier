@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/EvoSuite/evosuite/releases
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/42201162/76dcb8bc-fa70-430b-a3f7-285a215dc50a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241004%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241004T193057Z&X-Amz-Expires=300&X-Amz-Signature=bc7b2b31a7c6195c2a2957743b3b2dfda9d8e9e138d18322555a9a676b88c59c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Devosuite-1.2.0.jar&response-content-type=application%2Foctet-stream
